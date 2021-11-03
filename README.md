@@ -1,0 +1,2 @@
+# node-directory-monitoring
+ディレクトリを監視して追加された画像をOCRでテキスト化する
